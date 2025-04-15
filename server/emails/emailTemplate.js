@@ -22,7 +22,7 @@ export function resetPasswordEmailTemplate(firstName, resetUrl){
       </div>
       
       <p>If you have any questions or need assistance, our support team is always here to help.</p>
-      <p>Best regards,<br>The Eggys-place Team</p>
+      <p>Best regards,<br>The Eggys-place Teams</p>
     </div>
   </body>
   </html>
